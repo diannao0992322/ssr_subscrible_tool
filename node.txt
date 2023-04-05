@@ -78,3 +78,12 @@ trojan://a2cf9cdb-7f7e-4ffa-a233-2f66c8625cf4@uaejs.stablize.top:443?tfo=1#UAE%E
 trojan://a2cf9cdb-7f7e-4ffa-a233-2f66c8625cf4@swejs.stablize.top:443?tfo=1#SWE%E7%91%9E%E5%85%B8%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
 trojan://a2cf9cdb-7f7e-4ffa-a233-2f66c8625cf4@swejs.stablize.top:443?tfo=1#SWE%E7%91%9E%E5%85%B8%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9002
 trojan://a2cf9cdb-7f7e-4ffa-a233-2f66c8625cf4@swejs.stablize.top:443?tfo=1#SWE%E7%91%9E%E5%85%B8%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9003
+1元100G chatgpt
+trojan://aee356b6-aa18-45da-9919-f12669feb717@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%97%A5%E6%9C%AC1
+trojan://aee356b6-aa18-45da-9919-f12669feb717@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%97%A5%E6%9C%AC2
+trojan://aee356b6-aa18-45da-9919-f12669feb717@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A11
+trojan://aee356b6-aa18-45da-9919-f12669feb717@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://aee356b6-aa18-45da-9919-f12669feb717@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://aee356b6-aa18-45da-9919-f12669feb717@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E7%BE%8E%E5%9B%BD1
+trojan://aee356b6-aa18-45da-9919-f12669feb717@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E7%BE%8E%E5%9B%BD2
+trojan://aee356b6-aa18-45da-9919-f12669feb717@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E7%BE%8E%E5%9B%BD3
