@@ -35,11 +35,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vmNoYXRncHQxIiwNCiAgImFkZCI6ICIy
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vmNoYXRncHQyIiwNCiAgImFkZCI6ICIyMC53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIyMCIsDQogICJpZCI6ICI0MTEzMzNiNS02NDZkLTM0MzgtOTlkZi02M2YzYzRhNDkzMGYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 1元100G chatgpt  18019365642@163.com----238300     给clash电脑用号7.1日到期的
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E9%A6%99%E6%B8%AF%20-%20005
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E6%97%A5%E6%9C%AC%20-%20003
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E6%97%A5%E6%9C%AC%20-%20005
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20002
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20004
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20005
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E7%BE%8E%E5%9B%BD%20-%20001
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E7%BE%8E%E5%9B%BD%20-%20002
+trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscuk.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E8%8B%B1%E5%9B%BD%20-%20001
+trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fsckr.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E9%9F%A9%E5%9B%BD%20-%20002
+trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fsckr.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E9%9F%A9%E5%9B%BD%20-%20001
+trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscca.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20-%20001
+trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E5%8F%B0%E6%B9%BE%20-%20001
+trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E5%8F%B0%E6%B9%BE%20-%20002
+trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscca.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20-%20002
+trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscde.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E5%BE%B7%E5%9B%BD%20-%20003
