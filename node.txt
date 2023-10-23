@@ -1,16 +1,23 @@
-clash   2元  7366122给clash用到11.1
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC001
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1002
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD002
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD002
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A002
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@usajs.stablize.top:443?tfo=1#US%E7%BE%8E%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@aujs.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@dejs.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
-trojan://9e0f4362-d546-4837-a3c1-e98aaebfeb11@ukjs.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
+clash   2元  7366122给clash用到11.5,用的安卓b,c的下来
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@sg.liangyuandian.us:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@usa.liangyuandian.us:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@de.liangyuandian.us:443?tfo=1#DE%E5%BE%B7%E5%9B%BD001
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC001
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@ca.liangyuandian.us:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7001
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@sg.liangyuandian.us:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1002
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@sgliangyuandian.us:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1003
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@jp.liangyuandian.us:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@usaliangyuandian.us:443?tfo=1#USA%E7%BE%8E%E5%9B%BD002
+trojan://fbff5a3b-9880-4e6c-aeef-96d0a2dd224f@usa.liangyuandian.us:443?tfo=1#USA%E7%BE%8E%E5%9B%BD003
+trojan://d02ab897-5694-4e06-a408-bd03dd7161e3@usajs.liangyuandian.us:443?tfo=1#US%E7%BE%8E%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
+trojan://d02ab897-5694-4e06-a408-bd03dd7161e3@usajs.liangyuandian.us:443?tfo=1#US%E7%BE%8E%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9002
+trojan://d02ab897-5694-4e06-a408-bd03dd7161e3@cajs.liangyuandian.us:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
+trojan://d02ab897-5694-4e06-a408-bd03dd7161e3@cajs.liangyuandian.us:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9002
+trojan://d02ab897-5694-4e06-a408-bd03dd7161e3@aujs.liangyuandian.us:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
+trojan://d02ab897-5694-4e06-a408-bd03dd7161e3@aujs.liangyuandian.us:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9002
+trojan://d02ab897-5694-4e06-a408-bd03dd7161e3@ukjs.liangyuandian.us:443?tfo=1#UK%E8%8B%B1%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
+trojan://d02ab897-5694-4e06-a408-bd03dd7161e3@ukjs.liangyuandian.us:443?tfo=1#UK%E8%8B%B1%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9002
 百特百4525574  给clash用的
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vueZviIsDQogICJhZGQiOiAiaW4wNi5teTExODgub3JnIiwNCiAgInBvcnQiOiAiNjQwOTgiLA0KICAiaWQiOiAiZGEwODc3YjQtOTNkNy0zZTRkLTk2NjgtNGUyYzBmMDk2NmRlIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYml0ZWItdHcwMS53ZWNoYXQtY2RuLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaXpeacrOeZviIsDQogICJhZGQiOiAiaW4wNi5teTExODgub3JnIiwNCiAgInBvcnQiOiAiNjQwMDUiLA0KICAiaWQiOiAiZGEwODc3YjQtOTNkNy0zZTRkLTk2NjgtNGUyYzBmMDk2NmRlIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJiaXRlYi1qcDk4LWNkbi5teW5vZGVzMDAxLm9uZSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=
