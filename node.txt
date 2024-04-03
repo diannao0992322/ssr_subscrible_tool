@@ -1,13 +1,14 @@
 
 clash
 西瓜淘宝
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:53005?sni=vn005.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt2
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46005?sni=us005.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt1
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46006?sni=us006.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
-
+trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
+trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:53003?sni=vn003.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt2
+trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
+trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
+trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt1
+trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt2
+trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt1
+trojan://f34fab79-7285-4638-b00c-5c6a3be92612@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
 飞毯，临时和clash用456663
 vmess://eyJhZGQiOiJ0YW56LWhrLjAxYnl4MzFxem4uZG93bmxvYWQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTMyODhiMDgtYjJjOS0zNjgzLWFlOTYtMWRiYzRmOGRjNzM4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTAwOSIsInBzIjoiVjIgfCDpppnmuK8gMDEgfCDop6PplIEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0YW56LWhrLjAxYnl4MzFxem4uZG93bmxvYWQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTMyODhiMDgtYjJjOS0zNjgzLWFlOTYtMWRiYzRmOGRjNzM4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTAxMCIsInBzIjoiVjIgfCDpppnmuK8gMDIgfCDop6PplIEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
