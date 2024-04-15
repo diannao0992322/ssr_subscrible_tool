@@ -1,6 +1,6 @@
 
 clash
-西瓜淘宝
+西瓜淘宝  4.31
 trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:53003?sni=vn003.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
 trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt2
 trojan://20f4fdaf-5139-40e9-8b65-03545c2159b1@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
