@@ -1,12 +1,11 @@
 
 clash
 西瓜淘宝  5.31
-trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1%285.30%29
-trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
-trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%ACchatgpt1
-trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%ACchatgpt2
-trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BDchatgpt1
-trojan://ae8e7f83-9921-4c33-974d-c87c1228efb4@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BDchatgpt2
+53556@qq.com   临时和clash极简
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRouaWsOWKoOWdoTEiLA0KICAiYWRkIjogIjMud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDMiLA0KICAiaWQiOiAiMDAzNTI0NWQtOGZmMC0zZTNhLTg1MGYtMmNmMjY4YjE4MzdiIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRoeaWsOWKoOWdoTIiLA0KICAiYWRkIjogIjQud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDQiLA0KICAiaWQiOiAiMDAzNTI0NWQtOGZmMC0zZTNhLTg1MGYtMmNmMjY4YjE4MzdiIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRo+aXpeacrGNoYXRncHQxIiwNCiAgImFkZCI6ICI2LndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjA2IiwNCiAgImlkIjogIjAwMzUyNDVkLThmZjAtM2UzYS04NTBmLTJjZjI2OGIxODM3YiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKRpOaXpeacrGNoYXRncHQyIiwNCiAgImFkZCI6ICI3LndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjA3IiwNCiAgImlkIjogIjAwMzUyNDVkLThmZjAtM2UzYS04NTBmLTJjZjI2OGIxODM3YiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 飞毯，366456  clash和临时用，飞毯
 vmess://YXV0bzphNmZlNTE4OC0yZTA0LTNjMWQtOWIwNy05YjY2NWRlYmVjMWVAdGFuei1oay4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDA5?remarks=V2%20%7C%20%E9%A6%99%E6%B8%AF%2001%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=0
