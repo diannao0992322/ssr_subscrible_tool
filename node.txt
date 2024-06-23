@@ -1,25 +1,20 @@
 
 clash
-西瓜7.3到期
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101gpt1
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102gpt2
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01gpt1
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC02gpt2
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD01gpt1
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD02gpt2
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:53001?allowInsecure=1&peer=vn001.yijiasu.xyz&tfo=1#V1-%E8%B6%8A%E5%8D%9701
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:53002?allowInsecure=1&peer=vn002.yijiasu.xyz&tfo=1#V1-%E8%B6%8A%E5%8D%9702
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:43001?allowInsecure=1&peer=hk001.yijiasu.xyz&tfo=1#V1-%E9%A6%99%E6%B8%AF01
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:43002?allowInsecure=1&peer=hk002.yijiasu.xyz&tfo=1#V1-%E9%A6%99%E6%B8%AF02
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:45001?allowInsecure=1&peer=kr001.yijiasu.xyz&tfo=1#V1-%E9%9F%A9%E5%9B%BD01
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:45002?allowInsecure=1&peer=kr002.yijiasu.xyz&tfo=1#V2-%E9%9F%A9%E5%9B%BD02
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:46001?allowInsecure=1&peer=us001.yijiasu.xyz&tfo=1#V1-%E7%BE%8E%E5%9B%BD01
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:46002?allowInsecure=1&peer=us002.yijiasu.xyz&tfo=1#V1-%E7%BE%8E%E5%9B%BD02
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:47001?allowInsecure=1&peer=uk001.yijiasu.xyz&tfo=1#V1-%E8%8B%B1%E5%9B%BD01
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:49001?allowInsecure=1&peer=in001.yijiasu.xyz&tfo=1#V1-%E5%8D%B0%E5%BA%A601
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:51002?allowInsecure=1&peer=can002.yijiasu.xyz&tfo=1#V1-%E5%8A%A0%E6%8B%BF%E5%A4%A702
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:52002?allowInsecure=1&peer=ger002.yijiasu.xyz&tfo=1#V1-%E5%BE%B7%E5%9B%BD02
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:54001?allowInsecure=1&peer=rus001.yijiasu.xyz&tfo=1#V1-%E4%BF%84%E7%BD%97%E6%96%AF01
+奇异  576674
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQHNoY3Voay5uZXh0bmV0LmN5b3U6NTYz#%E9%A6%99%E6%B8%AF%E5%8A%A8%E6%80%81%20A
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQHNoY3Voay5uZXh0bmV0LmN5b3U6NTY0#%E9%A6%99%E6%B8%AF%E5%8A%A8%E6%80%81%20B
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQG5lb2V1ci51cHBlcmxheS54eXo6NjMw#%E4%BF%84%E7%BD%97%E6%96%AF%20A
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQG5lb2V1ci51cHBlcmxheS54eXo6NjMx#%E4%BF%84%E7%BD%97%E6%96%AF%20B
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQGFpc2FsYXllcjAxLnVwcGVybGF5Lnh5ejo1NjY#%E6%97%A5%E6%9C%AC%20A
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQGFpc2FsYXllcjAxLnVwcGVybGF5Lnh5ejo1Njc#%E6%97%A5%E6%9C%AC%20B
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQGFpc2FsYXllcjAxLnVwcGVybGF5Lnh5ejo1Njg#%E6%96%B0%E5%8A%A0%E5%9D%A1%20A
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQGFpc2FsYXllcjAxLnVwcGVybGF5Lnh5ejo1Njk#%E6%96%B0%E5%8A%A0%E5%9D%A1%20B
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQGNtcmVzLnN0YW5kcHJvLmNvOjU2NA#HKG%20A
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQHNoZ2V6My5sYWJleGl0Lnh5ejo1Njk#HKG%20C
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQDJjbnJlbGF5Mi5pbml0Y2xvdWQucHJvOjU2Mw#HKG%20B
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQHVzYXN0YW5kLWEudXBwZXJsYXkueHl6OjU2NQ#%E7%BE%8E%E5%9B%BD%20A
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQHVzYXN0YW5kLWEudXBwZXJsYXkueHl6OjU2Ng#%E7%BE%8E%E5%9B%BD%20B
+ss://YWVzLTEyOC1nY206NGE3MjkyZjgtMTM1ZS00Yzk3LWE1M2YtZmM2ZGMxODAxZmIyQHVzYXN0YW5kLWEudXBwZXJsYXkueHl6OjU2Nw#%E7%BE%8E%E5%9B%BD%20C
 
 
 mmzslj@163.com，爬墙，clash用
