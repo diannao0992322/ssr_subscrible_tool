@@ -41,6 +41,15 @@ trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:44248?allowInsecur
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:21603?allowInsecure=1&peer=k61.tudou211.com&sni=k61.tudou211.com#V3-%E7%BE%8E%E5%9B%BD01%E2%88%A3K61%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:59599?allowInsecure=1&peer=k62.tudou211.com&sni=k62.tudou211.com#V3-%E7%BE%8E%E5%9B%BD02%E2%88%A3K62%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.233.217:21148?allowInsecure=1&peer=k63.tudou211.com&sni=k63.tudou211.com#V3-%E7%BE%8E%E5%9B%BD03%E2%88%A3K63%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
+西瓜
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9704%7CNF%7CGPT
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A104
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:43001?sni=hk001.yijiasu.xyz#V1-%E9%A6%99%E6%B8%AF01
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD03%7Copenai
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46009?sni=us009.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD09%7Copenai
 64776@qq.com红杏
 vmess://eyJhZGQiOiJpZXBsLmhvbmd4aW5nZGwudmlwIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImM2MjlhOGUwLWNiYjktNDk1MS1hNWU4LTJhM2ZjNzlmOTBmYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTkzNTgiLCJwcyI6IvCfh7rwn4e4IOe+juWbvTUg5a6a5Yi2SUVQTCAg5pawIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJpZXBsLmhvbmd4aW5nZGwudmlwIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImM2MjlhOGUwLWNiYjktNDk1MS1hNWU4LTJhM2ZjNzlmOTBmYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTkzNTgiLCJwcyI6IvCfh7rwn4e4IOe+juWbvTQg5a6a5Yi2SUVQTCDmlrAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
