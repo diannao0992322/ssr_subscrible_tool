@@ -1,7 +1,15 @@
 win电脑按月
+土豆
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@125.94.40.162:21181?sni=k31.tudou211.com#V2-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A01
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@125.94.40.162:21079?sni=k32.tudou211.com#V2-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A02
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@125.94.40.162:21031?sni=k54.tudou211.com#V2-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A02
+果果插了5个
+trojan://e406c3cf-af91-424f-b968-3db3c9bbf27f@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BDchatgpt
+trojan://97d1878e-6845-4ba5-aaf5-0311444fdf2e@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD
+trojan://6ae39ed5-bd20-4111-88cf-cd22f9101cea@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BDchatgpt3
+trojan://b5284fb6-0054-4806-a340-2040ab57aadb@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD1
+trojan://e5679fe3-5c77-4443-8b1a-f1c8c7f678b4@zz1.jckumao.cc:36049?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BDchatgpt5
+土豆
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@xd-js.timiwc.com:21603?sni=k61.tudou211.com#V3-%E7%BE%8E%E5%9B%BD01%E2%88%A3K61
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@xd-js.timiwc.com:59599?sni=k62.tudou211.com#V3-%E7%BE%8E%E5%9B%BD02%E2%88%A3K62
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@xd-js.timiwc.com:21148?sni=k63.tudou211.com#V3-%E7%BE%8E%E5%9B%BD03%E2%88%A3K63
@@ -32,4 +40,10 @@ trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@125.94.40.162:21156?sni=k41.tudou2
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@xd-sh.timiwc.com:32702?sni=k36.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A101%E2%88%A3K36
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@125.94.40.162:21194?sni=k38.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A103%E2%88%A3K38
 trojan://f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11@125.94.40.162:21170?sni=k39.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A104%E2%88%A3K39
-
+5.1日用完的clash线路7934893@qq.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIumfqeWbvWdwdDEiLA0KICAiYWRkIjogIjEyLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjEyIiwNCiAgImlkIjogIjBkZGU3YzcwLThkM2MtMzAwNC05MjJjLTUyYjY1OWRjNWMzYSIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIumfqeWbvWdwdDIiLA0KICAiYWRkIjogIjEzLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjEzIiwNCiAgImlkIjogIjBkZGU3YzcwLThkM2MtMzAwNC05MjJjLTUyYjY1OWRjNWMzYSIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIumfqeWbvWdwdDMiLA0KICAiYWRkIjogIjE0LndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjE0IiwNCiAgImlkIjogIjBkZGU3YzcwLThkM2MtMzAwNC05MjJjLTUyYjY1OWRjNWMzYSIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbveWOn+eUnyIsDQogICJhZGQiOiAiMTcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMTciLA0KICAiaWQiOiAiMGRkZTdjNzAtOGQzYy0zMDA0LTkyMmMtNTJiNjU5ZGM1YzNhIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTgud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMTgiLA0KICAiaWQiOiAiMGRkZTdjNzAtOGQzYy0zMDA0LTkyMmMtNTJiNjU5ZGM1YzNhIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vuWOn+eUnyIsDQogICJhZGQiOiAiMjMud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMjMiLA0KICAiaWQiOiAiMGRkZTdjNzAtOGQzYy0zMDA0LTkyMmMtNTJiNjU5ZGM1YzNhIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
