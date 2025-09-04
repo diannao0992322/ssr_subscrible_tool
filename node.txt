@@ -1,23 +1,22 @@
 win电脑按月
-trojan://f48ba0ef-69f8-426b-9f41-71a6eb702aa6@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
-trojan://e61757d6-7c08-4f20-a116-928988596c06@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjFiMjE1Yy0xNDYyLTQ3YTUtYjk4OC1jMGY4NzRkNjQwZDlAeHh6LmRhZGFra2syMDg4LmNvbTozMDIwMg#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjRhNmNmMy1jNWM2LTQ3YzEtOGFjOS0xODAzMzdiM2E2OTNAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTZlMzQwOC1mZTBkLTQwNWMtYjIwNy1lNWQ3NTI3YmQyOWZAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDFjYzQwNC0zZWZlLTRkZTUtOThhZi1lZWVmY2UwNDY3NmRAeHh6LmRhZGFra2syMDg4LmNvbTozMDIwNA#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE
-trojan://3045f893-977f-483f-a68a-a601f36bfb2e@xxz.dadakkk2088.com:49214?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTRkMzIwYS1mZmI5LTRhMDYtOWYyNC1hNWFkNWMyNjI3NDVAeHh6LmRhZGFra2syMDg4LmNvbTozNDI0Ng#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://adddd167-b66d-49ff-a7f0-14d74e2bd0fc@xiaozhu.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
-trojan://42a861b7-7667-478e-9375-5962766110b9@xxz.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
-trojan://5a308a71-2059-4f21-a3c7-286bcc781ece@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
-trojan://ca17e781-743a-463d-b98d-e652a99fd397@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODFmODYwNC1kYTUzLTQ2MzgtYjk3OS00MDIxNzNjYzIzNDdAeHh6LmRhZGFra2syMDg4LmNvbTozMDIwMg#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTVkZGVjOS1kYTBiLTRiNGMtODMxOS05YjU4YzQyZjAwNDJAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjRmMjI3OC1kNTQ2LTQxNzItOGM2ZC1iYzNlZjFhNWUwNGFAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYjFlMDU1ZC1mNWQ0LTQxODgtYTAxNy1iMjcxYjdhZmI0YTRAeHh6LmRhZGFra2syMDg4LmNvbTozMDIwNA#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzQyOTI4MC1lNmY1LTQ4NDMtODUyYS1kN2I3MGM0ZmIzYzdAeHh6LmRhZGFra2syMDg4LmNvbTozNDI0Ng#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://3d06e621-f177-4634-956f-31782aaaadcf@xxz.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
-trojan://7077ec98-ea49-44c4-b63b-eae109a8b2f0@xiaozhu.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
+trojan://53c3946c-0307-4600-bb33-823f65fc443b@xxz.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
+trojan://04f3d378-a359-4dd0-af38-2a67b576dcee@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
+trojan://bb26b846-d093-4f69-820a-c8f0dfa4c7a8@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
+trojan://9ee2c40e-3b8d-490b-a2a3-17b2d55e7203@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
+trojan://48c746f9-8baf-4b64-b729-d82f98072c5d@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2
+trojan://1bf317b1-6dee-4746-8806-7d8bc708b883@xxz.dadakkk2088.com:41274?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
+trojan://4cd347a0-5493-490d-b8bd-eccc2d1c22c1@xxz.dadakkk2088.com:41275?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
+trojan://4bae9072-3de2-4c0f-b52a-260af88e8ffb@xxz.dadakkk2088.com:41277?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
+trojan://72b580e3-cf97-409a-956e-cb7dc104b985@xxz.dadakkk2088.com:49214?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD01
+trojan://07cbac1d-f498-4481-8066-9c231b46d820@xxz.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
+trojan://5fc1a179-11e5-443d-a44b-7566fea9dddb@xxz.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
+trojan://56eb512d-68a2-4e5c-84db-d8ddde7151ea@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
+trojan://3ff64756-5c93-4e6b-ad98-7ffb7b9d1fd4@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
+trojan://668ccd8b-cebf-4086-919c-7e89567e7315@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
+trojan://c55609ae-29ac-4983-abd5-338b22882eab@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2
+trojan://499455b0-fd47-4737-8085-38bd119e218d@xxz.dadakkk2088.com:41275?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
+trojan://51dbfe78-d2b7-4a87-abaa-4bd7a26b385c@xxz.dadakkk2088.com:41275?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
+trojan://96f38708-df65-4763-a026-001bd46bec7c@xxz.dadakkk2088.com:41277?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
 
 西塞尔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOWVlM2YxNy05YTEyLTQ5M2UtOTU1NS1mMGE4Nzc2MmQ4NjZAY2MuMDAwMDA4ODg4OC5jYzo0MTIyMw#%E2%9A%A1%EF%B8%8F%E9%A6%99%E6%B8%AF%20-%2002%20%20%7C%20HBO%20Max
@@ -27,6 +26,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOWVlM2YxNy05YTEyLTQ5M2UtOTU1NS1mMGE4Nzc2MmQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOWVlM2YxNy05YTEyLTQ5M2UtOTU1NS1mMGE4Nzc2MmQ4NjZAY2MuMDAwMDA4ODg4OC5jYzoxMDUxOA#%E2%9A%A1%EF%B8%8F%E9%A6%99%E6%B8%AF%20-%2008%20%20%7C%20Disney
 
 
+
+trojan://e61757d6-7c08-4f20-a116-928988596c06@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
+trojan://921b215c-1462-47a5-b988-c0f874d640d9@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
+trojan://764a6cf3-c5c6-47c1-8ac9-180337b3a693@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
+trojan://201cc404-3efe-4de5-98af-eeefce04676d@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2
+trojan://adddd167-b66d-49ff-a7f0-14d74e2bd0fc@xxz.dadakkk2088.com:41274?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
+trojan://42a861b7-7667-478e-9375-5962766110b9@xxz.dadakkk2088.com:41275?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
+trojan://5a308a71-2059-4f21-a3c7-286bcc781ece@xxz.dadakkk2088.com:41275?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
+trojan://ca17e781-743a-463d-b98d-e652a99fd397@xxz.dadakkk2088.com:41277?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
+trojan://7f4f2278-d546-4172-8c6d-bc3ef1a5e04a@xxz.dadakkk2088.com:49214?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD01
+trojan://0b1e055d-f5d4-4188-a017-b271b7afb4a4@xxz.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
+trojan://7c429280-e6f5-4843-852a-d7b70c4fb3c7@xxz.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
+trojan://3d06e621-f177-4634-956f-31782aaaadcf@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
+trojan://7077ec98-ea49-44c4-b63b-eae109a8b2f0@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
+trojan://9079bdaa-3540-4cfc-b67c-c9189f840cbb@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
 
 
 
@@ -40,25 +54,22 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNjc4OGNiOS0yMWFiLTRmMTctYjNhYy1kMjZiZDYzNWV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNjc4OGNiOS0yMWFiLTRmMTctYjNhYy1kMjZiZDYzNWVmMmVAY2MuMDAwMDA4ODg4OC5jYzo0NTk4Mw#%E2%9A%A1%EF%B8%8F%E6%97%A5%E6%9C%AC%20-%2001%20%20%20%7C%20Disney
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDU4OWFjOC1kNGFmLTRlODgtOWE1My0zMTIyMjRlNjdlZWFAeHh6LmRhZGFra2syMDg4LmNvbTozMDIwMg#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYjI2Yjg0Ni1kMDkzLTRmNjktODIwYS1jOGYwZGZhNGM3YThAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZWUyYzQwZS0zYjhkLTQ5MGItYTJhMy0xN2IyZDU1ZTcyMDNAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNTg1ODc0Yi1iOGRmLTRkN2YtOTI5My00MTczMDk4MzQxOWVAeHh6LmRhZGFra2syMDg4LmNvbTozMDIwNA#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE
-trojan://48c746f9-8baf-4b64-b729-d82f98072c5d@xxz.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
-trojan://1bf317b1-6dee-4746-8806-7d8bc708b883@xxz.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
-trojan://3e365770-1a85-4ae2-9486-59f13b92c69d@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
-trojan://4cd347a0-5493-490d-b8bd-eccc2d1c22c1@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmFlOTA3Mi0zZGUyLTRjMGYtYjUyYS0yNjBhZjg4ZThmZmJAeGlhb3podS5kYWRha2trMjA4OC5jb206MzAyMDI#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmI1ODBlMy1jZjk3LTQwOWEtOTU2ZS1jYjdkYzEwNGI5ODVAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowN2NiYWMxZC1mNDk4LTQ0ODEtODA2Ni05YzIzMWI0NmQ4MjBAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZmMxYTE3OS0xMWU1LTQ0M2QtYTQ0Yi03NTY2ZmVhOWRkZGJAeHh6LmRhZGFra2syMDg4LmNvbTozMDIwNA#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmViNTEyZC02OGEyLTRlNWMtODRkYi1kOGRkZGU3MTUxZWFAeHh6LmRhZGFra2syMDg4LmNvbTozNDI0Ng#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmY2NDc1Ni01YzkzLTRlNmItYWQ5OC03ZmZiN2I5ZDFmZDRAeHh6LmRhZGFra2syMDg4LmNvbTozNDI0Ng#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NjhjY2Q4Yi1jZWJmLTQwODYtOTE5Yy03ZTg5NTY3ZTczMTVAeHh6LmRhZGFra2syMDg4LmNvbTozMDIwNA#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNTU2MDlhZS0yOWFjLTQ5ODMtYWJkNS0zMzhiMjI4ODJlYWJAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OTk0NTViMC1mZDQ3LTQ3MzctODA4NS0zOGJkMTE5ZTIxOGRAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02
-trojan://51dbfe78-d2b7-4a87-abaa-4bd7a26b385c@xxz.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
-trojan://96f38708-df65-4763-a026-001bd46bec7c@xxz.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
+trojan://60295a6a-c3ea-499c-a4f1-4b4cf8facc9b@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2
+trojan://76fc209f-1d0c-4038-8f17-487cfac688f5@xxz.dadakkk2088.com:41274?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNDY5MmEyNi02MDQ2LTQyZWItOTg0MC0zMWUxOWI4MjJmNjFAeGlhb3podS5kYWRha2trMjA4OC5jb206MzAyMDI#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZmM2YWNhZC04MDZhLTQzNjQtYTY3Mi1lMGYyYmFiNjAxYzZAeGlhb3podS5kYWRha2trMjA4OC5jb206MzQyNDY#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://858fad5c-418a-4f7f-9a1b-3956062a76db@xiaozhu.dadakkk2088.com:49214?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD01
+trojan://9fe3fd81-8759-4d37-a031-e99d8344f02a@xiaozhu.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
+trojan://3b8994d9-9c61-498a-a3cf-6c22cb23d606@xxz.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
+trojan://33b1d6dd-3502-4ee4-ba4d-a6a952261eb4@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
+trojan://f1dce89f-c300-43ca-beba-7f781c6cbdcd@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
+trojan://9b5953ef-b49f-44be-8f68-4c071633ff3f@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
+trojan://9707d2a6-b276-4ea7-b0b1-a2baa505cf74@xxz.dadakkk2088.com:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2
+trojan://c005efad-b522-4753-98b8-a32bcb849392@xxz.dadakkk2088.com:41274?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
+trojan://15374e64-ea2b-4b0a-b517-d40b118ecbd8@xxz.dadakkk2088.com:41275?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
+trojan://07741c11-7d75-4b6d-b370-243268ed447b@xxz.dadakkk2088.com:41277?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
+trojan://c43cd2e2-af27-4e51-9e67-3ff8074ded2c@xxz.dadakkk2088.com:49214?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD01
+trojan://f6b09495-ec0b-4e34-91c4-0e0765401a29@xxz.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
 
 
 
@@ -74,22 +85,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZWZlMTJmYi0wZTBmLTQyMzYtODA4MC0zNGRjNDE4ODh
 
 
 
-trojan://dff5430a-73bb-4f60-a339-b6c74eb7d8fc@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
-trojan://76fc209f-1d0c-4038-8f17-487cfac688f5@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNDY5MmEyNi02MDQ2LTQyZWItOTg0MC0zMWUxOWI4MjJmNjFAeGlhb3podS5kYWRha2trMjA4OC5jb206MzAyMDI#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZmM2YWNhZC04MDZhLTQzNjQtYTY3Mi1lMGYyYmFiNjAxYzZAeGlhb3podS5kYWRha2trMjA4OC5jb206MzkyMTM#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NThmYWQ1Yy00MThhLTRmN2YtOWExYi0zOTU2MDYyYTc2ZGJAeGlhb3podS5kYWRha2trMjA4OC5jb206MzkyMTM#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZmUzZmQ4MS04NzU5LTRkMzctYTAzMS1lOTlkODM0NGYwMmFAeGlhb3podS5kYWRha2trMjA4OC5jb206MzAyMDQ#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjg5OTRkOS05YzYxLTQ5OGEtYTNjZi02YzIyY2IyM2Q2MDZAeGlhb3podS5kYWRha2trMjA4OC5jb206MzQyNDY#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://33b1d6dd-3502-4ee4-ba4d-a6a952261eb4@xiaozhu.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
-trojan://f1dce89f-c300-43ca-beba-7f781c6cbdcd@xiaozhu.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
-trojan://9b5953ef-b49f-44be-8f68-4c071633ff3f@xiaozhu.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
-trojan://9707d2a6-b276-4ea7-b0b1-a2baa505cf74@xiaozhu.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZmUwYTNhYy02NGVjLTQ4NmEtOTQ4MS05MTBlNTUxNmViYjlAeGlhb3podS5kYWRha2trMjA4OC5jb206MzAyMDI#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMDA1ZWZhZC1iNTIyLTQ3NTMtOThiOC1hMzJiY2I4NDkzOTJAeGlhb3podS5kYWRha2trMjA4OC5jb206MzkyMTM#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTM3NGU2NC1lYTJiLTRiMGEtYjUxNy1kNDBiMTE4ZWNiZDhAeHh6LmRhZGFra2syMDg4LmNvbTozOTIxMw#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzc0MWMxMS03ZDc1LTRiNmQtYjM3MC0yNDMyNjhlZDQ0N2JAeGlhb3podS5kYWRha2trMjA4OC5jb206MzAyMDQ#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE
-trojan://c43cd2e2-af27-4e51-9e67-3ff8074ded2c@xiaozhu.dadakkk2088.com:30210?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%8E%9F%E7%94%9F
-trojan://f6b09495-ec0b-4e34-91c4-0e0765401a29@xxz.dadakkk2088.com:19216?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%8E%9F%E7%94%9F
-trojan://53c3946c-0307-4600-bb33-823f65fc443b@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
-trojan://04f3d378-a359-4dd0-af38-2a67b576dcee@xxz.dadakkk2088.com:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
+
